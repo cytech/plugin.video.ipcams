@@ -35,11 +35,11 @@ if len(arguments) > 1:
 
     params = paramsToDict(arguments[1])
 
-    item = [__LS__(30011) % '1', __LS__(30011) % '2', __LS__(30011) % '3', __LS__(30011) % '4']
+    item = [__LS__(30011) % '1', __LS__(30011) % '2', __LS__(30011) % '3', __LS__(30011) % '4', __LS__(30011) % '5', __LS__(30011) % '6']
     cam = [__addon__.getSetting('cam1'), __addon__.getSetting('cam2'), __addon__.getSetting('cam3'),
-           __addon__.getSetting('cam4')]
+           __addon__.getSetting('cam4'), __addon__.getSetting('cam5'), __addon__.getSetting('cam6')]
     loc = [__addon__.getSetting('loc1'), __addon__.getSetting('loc2'), __addon__.getSetting('loc3'),
-           __addon__.getSetting('loc4')]
+           __addon__.getSetting('loc4'), __addon__.getSetting('loc5'), __addon__.getSetting('loc6')]
 
 
 _atleast = False

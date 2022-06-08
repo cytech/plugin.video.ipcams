@@ -83,3 +83,20 @@ msgstr ""
 msgctxt "#30028"
 msgid "Location Camera 4"
 msgstr ""
+
+msgctxt "#30029"
+msgid "Stream URL Camera 5"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Location Camera 5"
+msgstr ""
+
+msgctxt "#30031"
+msgid "Stream URL Camera 6"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Location Camera 6"
+msgstr ""
+
